@@ -22,7 +22,7 @@
 
 🔭 I'm currently focused on my personal projects and diving deep into **cybersecurity** and **malware analysis**  
 🌱 Always learning and experimenting with new technologies  
-💡 Passionate about creating innovative solutions
+💡 Passionate about creating innovative solutions <br>
 🎯 Exploring the intersection between **web development** and **security**  
 
 ---
