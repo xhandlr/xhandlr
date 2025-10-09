@@ -1,13 +1,10 @@
 <h1 align="center">Hi, I'm Camille <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNpeHVlejBtZmRwZzVkdWs1bjdmOXBhYncwcGF1dmNza3p6dnUxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdR8dwIZNjqrZss/giphy.gif" width="40"></h1>
 
 <p align="center">
-  <a href="https://github.com/xhandlr">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ADFF2F&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Civil+Informatics+Engineering+Student;Malware+Analysis+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1&color=ADFF2F&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Civil+Informatics+Engineering+Student;Malware+Analysis+Enthusiast" alt="Static Text" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/xhandlr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/camille-elgueta-cantero-01ab08383"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:c.elgueta04@ufromail.cl"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
