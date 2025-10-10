@@ -38,8 +38,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xhandlr&bg_color=0D1117&color=63FFC2&line=ADFF2F&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 </p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer" width="100%" />
-</p>
