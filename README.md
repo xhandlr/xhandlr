@@ -35,6 +35,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhandlr&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=63FFC2&text_color=FFF" alt="Top Languages" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xhandlr&bg_color=0D1117&color=63FFC2&line=ADFF2F&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 </p>
+-->
