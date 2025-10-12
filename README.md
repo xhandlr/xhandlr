@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Camille <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNpeHVlejBtZmRwZzVkdWs1bjdmOXBhYncwcGF1dmNza3p6dnUxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdR8dwIZNjqrZss/giphy.gif" width="40"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1&color=F1A4FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Civil+Informatics+Engineering+Student;Malware+Analysis+Enthusiast" alt="Static Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1&color=C385FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Civil+Informatics+Engineering+Student;Malware+Analysis+Enthusiast" alt="Static Text" />
 </p>
 
 <p align="center">
@@ -27,13 +27,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xhandlr&theme=dark&hide_border=true&background=0D1117&ring=F1A4FF&fire=63FFC2&currStreakLabel=63FFC2" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xhandlr&theme=dark&hide_border=true&background=0D1117&ring=C385FF&fire=63FFC2&currStreakLabel=63FFC2" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xhandlr&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=63FFC2&icon_color=F1A4FF" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xhandlr&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=63FFC2&icon_color=C385FF" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhandlr&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=63FFC2&text_color=FFF" alt="Top Languages" />
 </p>
+
 
 
 <!--
