@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github.com/xhandlr/xhandlr/blob/main/xhandlr_banner.png" alt="Xhandlr's Banner"/>
+  <img src="./xhandlr_banner_es.png" alt="Xhandlr's Banner"/>
 </p>
 
 ## 🔮 Sobre mí 
