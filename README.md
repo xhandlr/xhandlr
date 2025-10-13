@@ -1,3 +1,49 @@
+<p>
+  <img src="https://github.com/xhandlr/xhandlr/blob/main/xhandlr_banner.png" alt="Xhandlr's Banner"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/camille-elgueta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:c.elgueta04@ufromail.cl"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+## 🔮 About Me 
+
+Hi! I'm Camille, a 4th-year Computer Engineering student at UFRO, Chile.
+
+**Currently into:**
+- 🦠 Malware analysis
+- 🎨 UX/UI design
+- 🎵 Software Development
+
+I love research and learning by doing—building projects, analyzing malware samples, and designing interfaces.
+
+---
+
+[![View Stats](https://img.shields.io/badge/📊_View_Stats-black?style=for-the-badge)](./STATS.md)
+[![Versión Español](https://img.shields.io/badge/🇪🇸_Español-red?style=for-the-badge)](./README_ES.md)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  </a>
+</p>
+
+<!-- OLD README
+
 <h1 align="center">Hi, I'm Camille <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNpeHVlejBtZmRwZzVkdWs1bjdmOXBhYncwcGF1dmNza3p6dnUxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdR8dwIZNjqrZss/giphy.gif" width="40"></h1>
 
 <p align="center">
@@ -36,7 +82,7 @@
 </p>
 
 
-
+-->
 <!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xhandlr&bg_color=0D1117&color=63FFC2&line=ADFF2F&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
