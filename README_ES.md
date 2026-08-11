@@ -15,11 +15,18 @@ Me encanta crear nuevos proyectos, analizar muestras de malware y diseñar inter
 
 ---
 
+🌀 Este perfil aloja mis proyectos públicos. La mayoría de mi trabajo activo ocurre en [GitLab](https://gitlab.com/xhandlr).
+
+<p align="center">
+  <img src="https://gitblend.com/api/contributions?username=xhandlr&theme=gitlab" alt="Contribuciones de GitLab" />
+</p>
+
 [![Ver Estadísticas](https://img.shields.io/badge/📊_Ver_Estadísticas-black?style=for-the-badge)](./STATS.md)
 [![English Version](https://img.shields.io/badge/🇺🇸_English-blue?style=for-the-badge)](./README.md)
 <p align="center">
   <a href="https://www.linkedin.com/in/camille-elgueta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:c.elgueta04@ufromail.cl"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://gitlab.com/xhandlr"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>

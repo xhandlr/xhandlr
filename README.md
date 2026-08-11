@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/camille-elgueta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:c.elgueta04@ufromail.cl"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://gitlab.com/xhandlr"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
 </p>
 
 ## 🔮 About Me 
@@ -19,6 +20,12 @@ Hi! I'm Camille, a Computer Engineering student at UFRO, Chile.
 I love research and learning by doing—building projects, analyzing malware samples, and designing interfaces.
 
 ---
+
+🌀 This profile hosts my public projects. Most of my active work happens on [GitLab](https://gitlab.com/xhandlr).
+
+<p align="center">
+  <img src="https://gitblend.com/api/contributions?username=xhandlr&theme=gitlab" alt="GitLab Contributions" />
+</p>
 
 [![View Stats](https://img.shields.io/badge/📊_View_Stats-black?style=for-the-badge)](./STATS.md)
 [![Versión Español](https://img.shields.io/badge/🇪🇸_Español-red?style=for-the-badge)](./README_ES.md)
